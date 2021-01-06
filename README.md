@@ -1,7 +1,7 @@
 # stock-checker
 Python program that reads from a csv of tickers and gives the latest price of each
 
-## To run the program:
+## To run the program
 Create a virtual environment named venv
 Then run
 ```
